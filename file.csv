@@ -1,5 +1,6 @@
-All Websites,1,,,
-All Malicious Websites,0.3425845873176994,,,
-phishing,'0.1445213462716776,,,
-defacement,0.14812397591490054,,,
-malware,0.049939265131121284,,,
+Country,Value
+All Websites,1
+All Malicious Websites,0.3425845873176994
+phishing,'0.1445213462716776
+defacement,0.14812397591490054
+malware,0.049939265131121284
